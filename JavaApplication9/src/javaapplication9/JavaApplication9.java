@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication9;
-//HELLO!!!
+//HELLO!!!1234
 /**
  *
  * @author student
@@ -19,3 +19,4 @@ public class JavaApplication9 {
     }
     
 }
+
